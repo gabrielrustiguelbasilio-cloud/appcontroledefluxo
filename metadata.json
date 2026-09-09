@@ -1,0 +1,6 @@
+{
+  "name": "DocaFlow YMS - Gestão de Pátio e Docas",
+  "description": "Sistema integrado de gerenciamento de transportadora, controle de fluxo de 14 docas, triagem de veículos, indicadores logísticos e mitigação de congestionamento.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
